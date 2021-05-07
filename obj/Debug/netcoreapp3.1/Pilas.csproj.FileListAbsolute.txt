@@ -1,0 +1,24 @@
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.exe
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.deps.json
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.json
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Sindy Barrera\source\repos\Pilas\bin\Debug\netcoreapp3.1\Pilas.pdb
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfo.cs
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.pdb
+C:\Users\Sindy Barrera\source\repos\Pilas\obj\Debug\netcoreapp3.1\Pilas.genruntimeconfig.cache
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.exe
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.deps.json
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.json
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.dev.json
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Rolando\Documents\c#\Pilas\bin\Debug\netcoreapp3.1\Pilas.pdb
+C:\Users\Rolando\Documents\c#\Pilas\obj\Debug\netcoreapp3.1\Pilas.csprojAssemblyReference.cache
+C:\Users\Rolando\Documents\c#\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfoInputs.cache
+C:\Users\Rolando\Documents\c#\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfo.cs
+C:\Users\Rolando\Documents\c#\Pilas\obj\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Rolando\Documents\c#\Pilas\obj\Debug\netcoreapp3.1\Pilas.pdb
